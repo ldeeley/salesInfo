@@ -1,0 +1,1000 @@
+﻿Product,Seller,SellerId,Price,City,Category
+Keyboard,Currys,1,259.25,Tokyo,Sound
+TV,Currys,1,273.13,New York,Electrical
+TV,John Lewis,3,209.2,London,Electrical
+Table,Walmart,5,250.97,London,Furniture
+Computer,Currys,1,175.21,New York,Electrical
+Keyboard,Marks & Spencer,4,401.21,Berlin,Sound
+Table,Marks & Spencer,4,357.64,Tokyo,Furniture
+Washing Machine,Marks & Spencer,4,484.66,Tokyo,Kitchen
+Washing Machine,Walmart,5,792.89,Paris,Kitchen
+Dishwasher,Walmart,5,141.36,London,Kitchen
+Washing Machine,Marks & Spencer,4,535.9,Paris,Kitchen
+Chair,Walmart,5,175.95,New York,Furniture
+Computer,Currys,1,763.53,Paris,Electrical
+TV,Dixons,2,318.9,London,Electrical
+Keyboard,Dixons,2,357.73,London,Sound
+Keyboard,John Lewis,3,497.91,London,Sound
+Table,Dixons,2,624.37,Paris,Furniture
+Dishwasher,Currys,1,523.07,Paris,Kitchen
+TV,Marks & Spencer,4,451.92,Paris,Electrical
+Nespresso,Dixons,2,794.06,New York,Kitchen
+Dishwasher,Dixons,2,214.08,New York,Kitchen
+Computer,Dixons,2,404.51,Berlin,Electrical
+Keyboard,Dixons,2,367.48,Paris,Sound
+Computer,Currys,1,157.41,New York,Electrical
+Table,John Lewis,3,301.46,Paris,Furniture
+Dishwasher,Marks & Spencer,4,869,Tokyo,Kitchen
+Nespresso,John Lewis,3,137.41,London,Kitchen
+Computer,Walmart,5,681.23,London,Electrical
+Keyboard,Currys,1,536.59,Tokyo,Sound
+TV,Marks & Spencer,4,531.83,Tokyo,Electrical
+Table,Dixons,2,129.4,London,Furniture
+Washing Machine,Marks & Spencer,4,289.25,London,Kitchen
+Dishwasher,Walmart,5,309.56,Paris,Kitchen
+Dishwasher,Dixons,2,471.31,Paris,Kitchen
+Keyboard,Marks & Spencer,4,719.25,Berlin,Sound
+Keyboard,Dixons,2,596.72,London,Sound
+Computer,Currys,1,904.05,New York,Electrical
+Dishwasher,John Lewis,3,202.32,London,Kitchen
+Keyboard,Dixons,2,552.85,Paris,Sound
+TV,Dixons,2,359.09,Tokyo,Electrical
+Washing Machine,Currys,1,907.92,New York,Kitchen
+Table,Currys,1,833.01,New York,Furniture
+TV,Walmart,5,104.49,Paris,Electrical
+TV,John Lewis,3,201.83,Berlin,Electrical
+Table,Marks & Spencer,4,741.52,Tokyo,Furniture
+Table,John Lewis,3,837.93,Paris,Furniture
+Dishwasher,Dixons,2,681.99,London,Kitchen
+Nespresso,Marks & Spencer,4,752.54,Berlin,Kitchen
+Chair,Currys,1,816.63,Berlin,Furniture
+Table,Walmart,5,303.2,London,Furniture
+Dishwasher,Dixons,2,956.91,Tokyo,Kitchen
+Computer,Marks & Spencer,4,339.35,Paris,Electrical
+Computer,Dixons,2,472.57,London,Electrical
+Washing Machine,Marks & Spencer,4,289.8,London,Kitchen
+Chair,Currys,1,434.09,New York,Furniture
+Table,Currys,1,840.69,London,Furniture
+Computer,John Lewis,3,778.76,Tokyo,Electrical
+Dishwasher,Currys,1,933.9,New York,Kitchen
+Table,John Lewis,3,278.75,Berlin,Furniture
+Dishwasher,Walmart,5,924.14,New York,Kitchen
+Table,Currys,1,480.85,Paris,Furniture
+Computer,Marks & Spencer,4,687.53,Paris,Electrical
+Nespresso,Marks & Spencer,4,292.25,New York,Kitchen
+Computer,Walmart,5,355.19,London,Electrical
+Dishwasher,Marks & Spencer,4,445.37,Paris,Kitchen
+Table,Dixons,2,121.61,London,Furniture
+Computer,Marks & Spencer,4,654.61,Paris,Electrical
+Nespresso,Dixons,2,131.21,Paris,Kitchen
+Table,Dixons,2,436.95,Berlin,Furniture
+Dishwasher,Marks & Spencer,4,874.12,Berlin,Kitchen
+Washing Machine,Walmart,5,207.74,London,Kitchen
+TV,Currys,1,333.66,London,Electrical
+Keyboard,Currys,1,319.53,London,Sound
+Computer,Walmart,5,938.64,Paris,Electrical
+TV,Walmart,5,339.57,New York,Electrical
+Keyboard,Currys,1,333.45,Paris,Sound
+Keyboard,John Lewis,3,455.59,Paris,Sound
+Keyboard,John Lewis,3,462.83,Paris,Sound
+Table,Dixons,2,993.23,Tokyo,Furniture
+Keyboard,Currys,1,453.4,Berlin,Sound
+Computer,Dixons,2,439.67,New York,Electrical
+Keyboard,Marks & Spencer,4,637.55,Berlin,Sound
+Table,Marks & Spencer,4,195.98,Tokyo,Furniture
+Table,Walmart,5,792.05,Berlin,Furniture
+Keyboard,Walmart,5,340.46,Paris,Sound
+Computer,Walmart,5,749.5,Berlin,Electrical
+TV,John Lewis,3,719.03,New York,Electrical
+Nespresso,John Lewis,3,256.4,New York,Kitchen
+TV,Currys,1,306.83,Berlin,Electrical
+Nespresso,Marks & Spencer,4,145.34,Berlin,Kitchen
+Keyboard,John Lewis,3,269.71,Paris,Sound
+Keyboard,Currys,1,698.51,Paris,Sound
+TV,Marks & Spencer,4,924.05,Paris,Electrical
+Chair,Dixons,2,589.66,Tokyo,Furniture
+Keyboard,Marks & Spencer,4,304.62,Tokyo,Sound
+Nespresso,Marks & Spencer,4,496.04,Paris,Kitchen
+Keyboard,Dixons,2,333.74,London,Sound
+Washing Machine,Walmart,5,273.69,Paris,Kitchen
+TV,Currys,1,218.57,Berlin,Electrical
+Computer,John Lewis,3,869.27,Paris,Electrical
+TV,John Lewis,3,280.51,Paris,Electrical
+TV,Currys,1,574.86,London,Electrical
+Table,Dixons,2,197.98,Tokyo,Furniture
+Keyboard,John Lewis,3,429.49,London,Sound
+Nespresso,John Lewis,3,789.27,Paris,Kitchen
+TV,Walmart,5,528.42,London,Electrical
+TV,Marks & Spencer,4,281.72,Berlin,Electrical
+Nespresso,Marks & Spencer,4,762.44,Berlin,Kitchen
+Chair,John Lewis,3,704.4,London,Furniture
+Computer,Walmart,5,886.32,Tokyo,Electrical
+Nespresso,Currys,1,828.29,Tokyo,Kitchen
+TV,Walmart,5,824.7,New York,Electrical
+Washing Machine,Currys,1,314.11,Berlin,Kitchen
+Dishwasher,Currys,1,976.48,London,Kitchen
+Dishwasher,Marks & Spencer,4,323.47,Berlin,Kitchen
+Washing Machine,Dixons,2,204.94,Paris,Kitchen
+Dishwasher,Currys,1,762.28,Berlin,Kitchen
+Computer,Marks & Spencer,4,933.75,Tokyo,Electrical
+TV,Marks & Spencer,4,524.15,New York,Electrical
+Keyboard,Dixons,2,302.41,Paris,Sound
+Computer,Walmart,5,472.43,London,Electrical
+TV,Currys,1,983.38,New York,Electrical
+Table,Marks & Spencer,4,762.24,Paris,Furniture
+Washing Machine,Walmart,5,200.65,New York,Kitchen
+TV,Walmart,5,340.59,Paris,Electrical
+Chair,Dixons,2,433.8,London,Furniture
+Table,John Lewis,3,401.67,Tokyo,Furniture
+Computer,Walmart,5,726.79,Berlin,Electrical
+Washing Machine,Marks & Spencer,4,964.62,Berlin,Kitchen
+Chair,Walmart,5,989.03,New York,Furniture
+Computer,Currys,1,810.55,Paris,Electrical
+Keyboard,John Lewis,3,518.79,Berlin,Sound
+Keyboard,Walmart,5,308.61,London,Sound
+Washing Machine,John Lewis,3,983.76,New York,Kitchen
+TV,Dixons,2,762.72,Berlin,Electrical
+Chair,Dixons,2,243.56,Paris,Furniture
+Keyboard,Dixons,2,445.36,Paris,Sound
+Chair,Dixons,2,474.77,Berlin,Furniture
+Computer,Walmart,5,454.29,Tokyo,Electrical
+Chair,Walmart,5,669.81,London,Furniture
+Keyboard,Walmart,5,301.48,New York,Sound
+Computer,Currys,1,980.43,Tokyo,Electrical
+Dishwasher,John Lewis,3,180.94,New York,Kitchen
+Table,Dixons,2,807.04,Tokyo,Furniture
+Computer,Currys,1,528.63,Berlin,Electrical
+TV,John Lewis,3,259.79,Tokyo,Electrical
+Table,John Lewis,3,991.94,Berlin,Furniture
+Chair,Dixons,2,377.71,Berlin,Furniture
+Computer,John Lewis,3,137.48,New York,Electrical
+Keyboard,Walmart,5,558.22,Paris,Sound
+TV,Currys,1,333.18,Tokyo,Electrical
+Washing Machine,John Lewis,3,315.2,Paris,Kitchen
+Chair,Currys,1,791.95,Tokyo,Furniture
+Table,Marks & Spencer,4,167.09,London,Furniture
+Table,Marks & Spencer,4,496.87,London,Furniture
+Computer,Marks & Spencer,4,218.2,London,Electrical
+Nespresso,Dixons,2,740.36,New York,Kitchen
+Washing Machine,Walmart,5,682.12,Berlin,Kitchen
+Chair,John Lewis,3,477.73,Tokyo,Furniture
+Dishwasher,Currys,1,621.01,Berlin,Kitchen
+Computer,John Lewis,3,503.12,New York,Electrical
+Computer,Currys,1,292.78,Tokyo,Electrical
+TV,Currys,1,834.68,New York,Electrical
+Dishwasher,Dixons,2,413.3,Paris,Kitchen
+Computer,Dixons,2,870.2,London,Electrical
+Keyboard,Marks & Spencer,4,322.05,Paris,Sound
+Chair,Marks & Spencer,4,999.65,New York,Furniture
+Chair,Dixons,2,975.24,Paris,Furniture
+Washing Machine,Marks & Spencer,4,511.16,Berlin,Kitchen
+Keyboard,Dixons,2,626,Paris,Sound
+Dishwasher,Dixons,2,504.91,London,Kitchen
+Dishwasher,Currys,1,101.17,Tokyo,Kitchen
+Computer,Dixons,2,946.51,Paris,Electrical
+Washing Machine,Dixons,2,162.33,London,Kitchen
+Table,Dixons,2,330.86,Paris,Furniture
+TV,Marks & Spencer,4,565.48,Berlin,Electrical
+TV,John Lewis,3,622.62,London,Electrical
+Dishwasher,Walmart,5,515.09,Berlin,Kitchen
+Computer,Dixons,2,773.31,Berlin,Electrical
+TV,John Lewis,3,680.16,Paris,Electrical
+Keyboard,Dixons,2,139.84,Paris,Sound
+Chair,Walmart,5,836.07,New York,Furniture
+Nespresso,John Lewis,3,797.38,Berlin,Kitchen
+Table,John Lewis,3,778.27,Paris,Furniture
+Nespresso,Currys,1,632.8,Berlin,Kitchen
+TV,Dixons,2,738.19,New York,Electrical
+Table,Marks & Spencer,4,540.84,Berlin,Furniture
+Computer,Currys,1,740.46,New York,Electrical
+Keyboard,Marks & Spencer,4,846.14,Paris,Sound
+Table,John Lewis,3,725.55,Paris,Furniture
+Dishwasher,John Lewis,3,380.51,Paris,Kitchen
+Washing Machine,Currys,1,780.55,New York,Kitchen
+Washing Machine,Currys,1,107.9,Berlin,Kitchen
+Nespresso,Dixons,2,205.85,Paris,Kitchen
+Computer,Marks & Spencer,4,721.16,Berlin,Electrical
+Keyboard,Dixons,2,292.52,Berlin,Sound
+Computer,John Lewis,3,138.95,Berlin,Electrical
+Table,Walmart,5,238.6,Tokyo,Furniture
+Table,Walmart,5,719.44,Paris,Furniture
+Keyboard,John Lewis,3,927.77,Berlin,Sound
+Table,John Lewis,3,340.58,Paris,Furniture
+Table,Marks & Spencer,4,860.29,London,Furniture
+Chair,Currys,1,547.06,Berlin,Furniture
+Dishwasher,Currys,1,134.21,New York,Kitchen
+Chair,John Lewis,3,251.25,New York,Furniture
+Chair,Dixons,2,601.38,Paris,Furniture
+Keyboard,Currys,1,142.44,Berlin,Sound
+Dishwasher,John Lewis,3,278.62,Berlin,Kitchen
+Nespresso,John Lewis,3,237.13,Berlin,Kitchen
+Keyboard,Walmart,5,212.92,Berlin,Sound
+TV,Dixons,2,936.43,Tokyo,Electrical
+Chair,Currys,1,237.9,Berlin,Furniture
+Keyboard,Walmart,5,162.63,London,Sound
+Keyboard,Walmart,5,998.36,Berlin,Sound
+Table,Marks & Spencer,4,977.39,New York,Furniture
+Chair,John Lewis,3,253.29,Paris,Furniture
+Table,Currys,1,769.72,New York,Furniture
+Dishwasher,John Lewis,3,260.85,New York,Kitchen
+Computer,Dixons,2,763.84,Berlin,Electrical
+Nespresso,Walmart,5,652.62,Berlin,Kitchen
+Table,Walmart,5,498.02,Berlin,Furniture
+Washing Machine,Walmart,5,608.76,Berlin,Kitchen
+Computer,Walmart,5,412.97,Berlin,Electrical
+Dishwasher,John Lewis,3,231.11,Berlin,Kitchen
+Washing Machine,Marks & Spencer,4,328.46,Tokyo,Kitchen
+Table,Walmart,5,907.62,New York,Furniture
+Table,Currys,1,280.97,Tokyo,Furniture
+Keyboard,Marks & Spencer,4,565.26,Tokyo,Sound
+TV,Currys,1,849.78,London,Electrical
+Computer,John Lewis,3,366.23,London,Electrical
+Dishwasher,Walmart,5,873.99,Tokyo,Kitchen
+Dishwasher,Currys,1,278.84,London,Kitchen
+Dishwasher,John Lewis,3,774.77,Berlin,Kitchen
+Keyboard,Marks & Spencer,4,393.75,London,Sound
+Washing Machine,Currys,1,533.97,Tokyo,Kitchen
+Computer,John Lewis,3,514.55,Berlin,Electrical
+Washing Machine,Dixons,2,895.54,Paris,Kitchen
+Nespresso,John Lewis,3,964.27,Berlin,Kitchen
+Keyboard,Walmart,5,374.35,London,Sound
+Computer,Dixons,2,319.53,Berlin,Electrical
+Nespresso,Currys,1,329.2,London,Kitchen
+Table,Currys,1,487.78,Berlin,Furniture
+Dishwasher,Currys,1,435.55,Berlin,Kitchen
+Computer,Dixons,2,138.01,New York,Electrical
+Table,Currys,1,663.59,Tokyo,Furniture
+Keyboard,Currys,1,911.67,Berlin,Sound
+Nespresso,John Lewis,3,863.69,Berlin,Kitchen
+Washing Machine,Walmart,5,244.69,New York,Kitchen
+Nespresso,Marks & Spencer,4,297.93,London,Kitchen
+Dishwasher,Currys,1,527.8,London,Kitchen
+TV,Walmart,5,418.29,Paris,Electrical
+Chair,John Lewis,3,698.87,Paris,Furniture
+Keyboard,Marks & Spencer,4,691.78,New York,Sound
+Computer,Marks & Spencer,4,362.27,Tokyo,Electrical
+Chair,Marks & Spencer,4,411.09,Berlin,Furniture
+Computer,John Lewis,3,492.08,New York,Electrical
+Table,John Lewis,3,792.68,Tokyo,Furniture
+Keyboard,Currys,1,937.4,Berlin,Sound
+Chair,Currys,1,985.84,New York,Furniture
+Keyboard,Currys,1,791.83,Tokyo,Sound
+Table,Walmart,5,666.47,Paris,Furniture
+Nespresso,Marks & Spencer,4,917.35,Tokyo,Kitchen
+TV,Marks & Spencer,4,787.34,Berlin,Electrical
+Chair,Currys,1,947.98,Berlin,Furniture
+Table,Walmart,5,630.84,Tokyo,Furniture
+Washing Machine,John Lewis,3,898.33,Tokyo,Kitchen
+Dishwasher,Currys,1,651.02,New York,Kitchen
+Nespresso,Dixons,2,642.26,New York,Kitchen
+Keyboard,Walmart,5,177.74,New York,Sound
+TV,Dixons,2,587.68,Paris,Electrical
+Keyboard,John Lewis,3,390.03,Tokyo,Sound
+TV,Currys,1,672.81,London,Electrical
+TV,Walmart,5,877.71,New York,Electrical
+Computer,Walmart,5,137.05,Paris,Electrical
+Washing Machine,Currys,1,255.13,New York,Kitchen
+Dishwasher,John Lewis,3,501.03,New York,Kitchen
+TV,Marks & Spencer,4,281.76,London,Electrical
+Computer,John Lewis,3,712.59,Berlin,Electrical
+Table,Dixons,2,774.08,Berlin,Furniture
+Nespresso,Dixons,2,837.78,New York,Kitchen
+TV,Currys,1,679.02,London,Electrical
+Computer,Dixons,2,501.36,London,Electrical
+Nespresso,Marks & Spencer,4,716.05,Tokyo,Kitchen
+TV,Marks & Spencer,4,375.09,New York,Electrical
+TV,Dixons,2,585.29,Paris,Electrical
+Washing Machine,Walmart,5,467.09,London,Kitchen
+Washing Machine,Currys,1,814.58,Berlin,Kitchen
+Washing Machine,Dixons,2,432.7,Tokyo,Kitchen
+Table,Walmart,5,189.08,Berlin,Furniture
+Keyboard,Currys,1,934.21,Berlin,Sound
+Chair,Currys,1,813.87,London,Furniture
+Chair,Dixons,2,463.95,Tokyo,Furniture
+TV,Currys,1,478.59,Berlin,Electrical
+Keyboard,Currys,1,198.46,Paris,Sound
+Nespresso,John Lewis,3,230,Tokyo,Kitchen
+Keyboard,Marks & Spencer,4,337.71,London,Sound
+Washing Machine,Walmart,5,396.66,Berlin,Kitchen
+Dishwasher,Dixons,2,569.06,London,Kitchen
+Dishwasher,John Lewis,3,516.77,Berlin,Kitchen
+Table,John Lewis,3,393.81,New York,Furniture
+TV,Dixons,2,860.94,New York,Electrical
+Nespresso,Walmart,5,615.38,New York,Kitchen
+Chair,Currys,1,682.51,Tokyo,Furniture
+Nespresso,Walmart,5,460.32,Tokyo,Kitchen
+Computer,Currys,1,921.62,Berlin,Electrical
+Nespresso,John Lewis,3,520.92,Tokyo,Kitchen
+Table,Dixons,2,130.08,Berlin,Furniture
+Nespresso,Marks & Spencer,4,510.95,New York,Kitchen
+Keyboard,Dixons,2,437.76,New York,Sound
+TV,Walmart,5,112.65,New York,Electrical
+Washing Machine,Marks & Spencer,4,942.21,London,Kitchen
+Nespresso,Marks & Spencer,4,125.55,Berlin,Kitchen
+Nespresso,John Lewis,3,228.57,Tokyo,Kitchen
+Washing Machine,Marks & Spencer,4,657.49,New York,Kitchen
+Computer,Walmart,5,251.93,Paris,Electrical
+TV,Marks & Spencer,4,649.61,Berlin,Electrical
+Washing Machine,Dixons,2,109.78,Berlin,Kitchen
+Table,Marks & Spencer,4,565.81,Paris,Furniture
+Nespresso,Currys,1,909.21,Berlin,Kitchen
+Table,John Lewis,3,629.79,London,Furniture
+Dishwasher,Marks & Spencer,4,562.27,New York,Kitchen
+Washing Machine,John Lewis,3,205.08,Berlin,Kitchen
+Computer,John Lewis,3,167.56,London,Electrical
+Computer,Marks & Spencer,4,947.09,Paris,Electrical
+Keyboard,Walmart,5,971.62,London,Sound
+Dishwasher,Walmart,5,316.5,London,Kitchen
+TV,John Lewis,3,721.46,Tokyo,Electrical
+Keyboard,Marks & Spencer,4,204.37,London,Sound
+Keyboard,John Lewis,3,611.2,Tokyo,Sound
+Nespresso,Marks & Spencer,4,277.99,Paris,Kitchen
+Nespresso,Dixons,2,207.24,Paris,Kitchen
+Computer,Walmart,5,497.84,Berlin,Electrical
+Chair,John Lewis,3,433.83,New York,Furniture
+Chair,Walmart,5,988.27,Paris,Furniture
+Nespresso,Dixons,2,388.18,London,Kitchen
+Computer,John Lewis,3,623.06,Berlin,Electrical
+Chair,John Lewis,3,511.38,New York,Furniture
+Computer,Marks & Spencer,4,661.98,Paris,Electrical
+TV,Marks & Spencer,4,620.72,London,Electrical
+Table,Walmart,5,986.65,Tokyo,Furniture
+Dishwasher,Dixons,2,676.45,Tokyo,Kitchen
+Washing Machine,Marks & Spencer,4,109.36,Paris,Kitchen
+Washing Machine,Currys,1,895.74,New York,Kitchen
+Washing Machine,John Lewis,3,773.01,Berlin,Kitchen
+Chair,Dixons,2,988.54,New York,Furniture
+Washing Machine,Dixons,2,438.82,London,Kitchen
+TV,Currys,1,493.8,New York,Electrical
+Table,Walmart,5,897.73,Paris,Furniture
+Chair,John Lewis,3,704.2,London,Furniture
+Washing Machine,Dixons,2,166.16,New York,Kitchen
+Washing Machine,Dixons,2,638.63,New York,Kitchen
+Table,Currys,1,749.41,Berlin,Furniture
+Nespresso,John Lewis,3,886.16,Tokyo,Kitchen
+Washing Machine,Dixons,2,485.71,New York,Kitchen
+Dishwasher,Currys,1,357.21,Paris,Kitchen
+Nespresso,Marks & Spencer,4,249.38,London,Kitchen
+Nespresso,Marks & Spencer,4,863.67,London,Kitchen
+Keyboard,Walmart,5,570.98,Tokyo,Sound
+Keyboard,Walmart,5,140.58,New York,Sound
+Chair,Walmart,5,235.05,London,Furniture
+Table,Marks & Spencer,4,755.53,Paris,Furniture
+Keyboard,Walmart,5,893.66,Tokyo,Sound
+Table,Walmart,5,377.74,London,Furniture
+TV,Currys,1,523.31,Berlin,Electrical
+Nespresso,John Lewis,3,438.62,London,Kitchen
+Computer,John Lewis,3,652.57,Berlin,Electrical
+Keyboard,Currys,1,337.86,London,Sound
+Computer,John Lewis,3,526.13,London,Electrical
+Table,Currys,1,960.69,Paris,Furniture
+Computer,Marks & Spencer,4,185.06,London,Electrical
+TV,Currys,1,316.66,New York,Electrical
+Dishwasher,Marks & Spencer,4,265.68,Tokyo,Kitchen
+TV,Dixons,2,335.44,London,Electrical
+TV,Dixons,2,932.1,Paris,Electrical
+Keyboard,Marks & Spencer,4,107.66,London,Sound
+Keyboard,John Lewis,3,584,London,Sound
+Chair,Currys,1,810.26,London,Furniture
+Dishwasher,John Lewis,3,271.68,Tokyo,Kitchen
+Chair,Dixons,2,878.26,Paris,Furniture
+Chair,John Lewis,3,387.3,Berlin,Furniture
+Chair,Marks & Spencer,4,226.83,Berlin,Furniture
+Chair,Walmart,5,324.4,Paris,Furniture
+Computer,Walmart,5,997.73,London,Electrical
+TV,John Lewis,3,288.71,London,Electrical
+Keyboard,Dixons,2,621.9,Berlin,Sound
+TV,John Lewis,3,152.49,New York,Electrical
+Computer,Marks & Spencer,4,512.81,Paris,Electrical
+Nespresso,Marks & Spencer,4,944.75,Tokyo,Kitchen
+TV,Dixons,2,717.01,Tokyo,Electrical
+Dishwasher,Currys,1,566.83,New York,Kitchen
+Washing Machine,Marks & Spencer,4,857.48,London,Kitchen
+Keyboard,Dixons,2,705.12,Paris,Sound
+Keyboard,John Lewis,3,369.23,Paris,Sound
+TV,Currys,1,746.24,New York,Electrical
+TV,Walmart,5,403.59,Paris,Electrical
+Table,Walmart,5,454.65,New York,Furniture
+Washing Machine,Dixons,2,150.05,Berlin,Kitchen
+Keyboard,John Lewis,3,487.61,London,Sound
+Table,Currys,1,258.14,Berlin,Furniture
+Chair,Marks & Spencer,4,344.24,London,Furniture
+Nespresso,Dixons,2,979.03,New York,Kitchen
+Computer,Marks & Spencer,4,862.37,Tokyo,Electrical
+Dishwasher,John Lewis,3,301.02,Tokyo,Kitchen
+Dishwasher,John Lewis,3,674.16,Tokyo,Kitchen
+Table,John Lewis,3,986.87,Berlin,Furniture
+Table,John Lewis,3,115.98,Tokyo,Furniture
+Table,John Lewis,3,292.73,Paris,Furniture
+Nespresso,Currys,1,673.63,Tokyo,Kitchen
+TV,John Lewis,3,622.28,London,Electrical
+Table,Dixons,2,725.22,New York,Furniture
+Chair,John Lewis,3,586.85,New York,Furniture
+Table,John Lewis,3,764.21,Tokyo,Furniture
+Keyboard,Dixons,2,338.4,Tokyo,Sound
+Washing Machine,Walmart,5,167.77,Tokyo,Kitchen
+TV,Walmart,5,778.52,Berlin,Electrical
+Computer,Dixons,2,891.36,Paris,Electrical
+TV,Dixons,2,406.19,New York,Electrical
+TV,Walmart,5,233.91,Paris,Electrical
+Chair,Marks & Spencer,4,137.23,New York,Furniture
+Chair,Currys,1,208.07,Berlin,Furniture
+Washing Machine,Marks & Spencer,4,242.74,Paris,Kitchen
+Nespresso,John Lewis,3,300.99,Tokyo,Kitchen
+Computer,Walmart,5,599.99,Tokyo,Electrical
+Keyboard,Marks & Spencer,4,266.56,Berlin,Sound
+TV,John Lewis,3,317.54,Paris,Electrical
+Keyboard,Dixons,2,868.05,New York,Sound
+Table,Currys,1,375.07,Tokyo,Furniture
+Keyboard,Currys,1,855.25,Berlin,Sound
+Table,Walmart,5,747.04,Paris,Furniture
+Washing Machine,Walmart,5,484.37,Tokyo,Kitchen
+TV,John Lewis,3,215.43,Paris,Electrical
+TV,John Lewis,3,253.63,London,Electrical
+Chair,Walmart,5,530.89,London,Furniture
+TV,Marks & Spencer,4,157.32,Paris,Electrical
+Keyboard,John Lewis,3,935.62,Berlin,Sound
+Nespresso,Dixons,2,861.87,Berlin,Kitchen
+Computer,Currys,1,965.98,Paris,Electrical
+Washing Machine,Marks & Spencer,4,929.92,London,Kitchen
+Keyboard,Marks & Spencer,4,196.17,New York,Sound
+Nespresso,Walmart,5,402.03,New York,Kitchen
+Dishwasher,Dixons,2,215.25,Berlin,Kitchen
+Dishwasher,Walmart,5,186.06,New York,Kitchen
+Keyboard,Marks & Spencer,4,782.84,Paris,Sound
+Chair,Walmart,5,600.78,Tokyo,Furniture
+Table,Currys,1,406.02,London,Furniture
+Table,Currys,1,275.81,London,Furniture
+TV,Dixons,2,275.31,New York,Electrical
+Washing Machine,John Lewis,3,924.87,Berlin,Kitchen
+TV,Marks & Spencer,4,430.51,Tokyo,Electrical
+TV,Marks & Spencer,4,931.36,Berlin,Electrical
+Table,Dixons,2,491.59,London,Furniture
+Chair,John Lewis,3,756.05,Paris,Furniture
+Computer,Dixons,2,141.61,Tokyo,Electrical
+Computer,Dixons,2,743.96,London,Electrical
+TV,John Lewis,3,512.89,Berlin,Electrical
+Computer,Dixons,2,960.72,Berlin,Electrical
+Keyboard,Marks & Spencer,4,615.27,London,Sound
+Computer,Dixons,2,998.25,Tokyo,Electrical
+Table,Currys,1,984.55,New York,Furniture
+Table,Dixons,2,336.96,Tokyo,Furniture
+Keyboard,Walmart,5,570.2,New York,Sound
+Chair,Marks & Spencer,4,864.76,Paris,Furniture
+Nespresso,Walmart,5,281.44,London,Kitchen
+Dishwasher,Dixons,2,322.44,New York,Kitchen
+Chair,Dixons,2,369.77,London,Furniture
+Washing Machine,John Lewis,3,230.21,New York,Kitchen
+Nespresso,Currys,1,858.84,Berlin,Kitchen
+Nespresso,Walmart,5,633.14,London,Kitchen
+Washing Machine,Currys,1,426.44,New York,Kitchen
+Washing Machine,Dixons,2,728.74,London,Kitchen
+Table,John Lewis,3,484.91,Paris,Furniture
+Keyboard,Walmart,5,866.61,Tokyo,Sound
+Keyboard,Walmart,5,906.27,Tokyo,Sound
+Nespresso,Currys,1,991.69,New York,Kitchen
+Chair,Marks & Spencer,4,759.38,New York,Furniture
+TV,Marks & Spencer,4,217.82,New York,Electrical
+Nespresso,Marks & Spencer,4,771.17,Tokyo,Kitchen
+TV,Marks & Spencer,4,483.63,Paris,Electrical
+Nespresso,John Lewis,3,348.82,New York,Kitchen
+Keyboard,Dixons,2,557.41,London,Sound
+Computer,John Lewis,3,181.64,London,Electrical
+Chair,Dixons,2,485.76,New York,Furniture
+Chair,John Lewis,3,196.89,Paris,Furniture
+Washing Machine,Currys,1,309.44,New York,Kitchen
+TV,Dixons,2,268.31,Berlin,Electrical
+Washing Machine,John Lewis,3,641.63,New York,Kitchen
+Nespresso,Dixons,2,170.97,London,Kitchen
+Nespresso,John Lewis,3,949.44,New York,Kitchen
+Keyboard,Marks & Spencer,4,342.88,Tokyo,Sound
+Keyboard,John Lewis,3,119.2,New York,Sound
+Nespresso,Currys,1,340.93,Tokyo,Kitchen
+Keyboard,John Lewis,3,915.63,London,Sound
+Keyboard,Walmart,5,475.8,London,Sound
+Table,Walmart,5,759.5,Berlin,Furniture
+Keyboard,John Lewis,3,480.07,London,Sound
+Washing Machine,Walmart,5,574.35,London,Kitchen
+Chair,Marks & Spencer,4,539.74,Berlin,Furniture
+Washing Machine,Walmart,5,462.33,Paris,Kitchen
+Computer,John Lewis,3,149.45,Berlin,Electrical
+Table,Walmart,5,952.6,London,Furniture
+Washing Machine,John Lewis,3,286.75,New York,Kitchen
+Keyboard,Dixons,2,330.5,Berlin,Sound
+Chair,John Lewis,3,721.51,Tokyo,Furniture
+Dishwasher,Marks & Spencer,4,615.7,New York,Kitchen
+Chair,Currys,1,996.77,Tokyo,Furniture
+Table,Currys,1,621.56,New York,Furniture
+Computer,Marks & Spencer,4,401.51,Paris,Electrical
+Table,Walmart,5,327.27,Berlin,Furniture
+Keyboard,Walmart,5,273.07,Berlin,Sound
+Keyboard,Marks & Spencer,4,928.76,Tokyo,Sound
+Chair,John Lewis,3,256.38,New York,Furniture
+Nespresso,Walmart,5,594.78,London,Kitchen
+TV,Marks & Spencer,4,367.12,New York,Electrical
+TV,Marks & Spencer,4,387.6,Berlin,Electrical
+Nespresso,John Lewis,3,541.51,London,Kitchen
+Keyboard,Walmart,5,729.15,Tokyo,Sound
+Washing Machine,Marks & Spencer,4,153.33,Tokyo,Kitchen
+Washing Machine,Currys,1,998.22,London,Kitchen
+Washing Machine,Marks & Spencer,4,126.58,Tokyo,Kitchen
+Chair,Marks & Spencer,4,875.33,Berlin,Furniture
+TV,Dixons,2,838.15,Berlin,Electrical
+Computer,Dixons,2,573.29,New York,Electrical
+Keyboard,Dixons,2,162.31,Paris,Sound
+Chair,Currys,1,848.88,London,Furniture
+Washing Machine,Currys,1,481.06,Tokyo,Kitchen
+Computer,Walmart,5,952.29,Paris,Electrical
+Table,Currys,1,779.2,Paris,Furniture
+Computer,John Lewis,3,265.89,New York,Electrical
+Keyboard,Marks & Spencer,4,257.85,New York,Sound
+Table,John Lewis,3,126.05,Paris,Furniture
+Computer,Dixons,2,205.21,New York,Electrical
+Washing Machine,John Lewis,3,491.48,Paris,Kitchen
+Washing Machine,Walmart,5,697.44,Tokyo,Kitchen
+Dishwasher,Marks & Spencer,4,812.26,Berlin,Kitchen
+Washing Machine,Currys,1,198.54,Tokyo,Kitchen
+Nespresso,Marks & Spencer,4,441.77,Paris,Kitchen
+Dishwasher,John Lewis,3,967.43,London,Kitchen
+Computer,Marks & Spencer,4,217.25,Tokyo,Electrical
+Dishwasher,Marks & Spencer,4,970.63,Paris,Kitchen
+Chair,John Lewis,3,523.85,Berlin,Furniture
+Dishwasher,Walmart,5,865.63,London,Kitchen
+Keyboard,Walmart,5,481.88,Berlin,Sound
+Dishwasher,Dixons,2,180.4,London,Kitchen
+Washing Machine,John Lewis,3,299.06,London,Kitchen
+Table,Marks & Spencer,4,903.56,New York,Furniture
+Computer,John Lewis,3,699.17,Tokyo,Electrical
+Nespresso,Marks & Spencer,4,163.28,Tokyo,Kitchen
+Table,Marks & Spencer,4,230.77,Tokyo,Furniture
+TV,Currys,1,673.75,Tokyo,Electrical
+Computer,John Lewis,3,496.15,New York,Electrical
+TV,John Lewis,3,773.74,New York,Electrical
+Table,John Lewis,3,280.36,Tokyo,Furniture
+Table,Dixons,2,353.94,Paris,Furniture
+Nespresso,John Lewis,3,749.69,New York,Kitchen
+Computer,Marks & Spencer,4,115.37,Paris,Electrical
+Dishwasher,Dixons,2,373.2,New York,Kitchen
+Dishwasher,Marks & Spencer,4,592.21,New York,Kitchen
+TV,Marks & Spencer,4,308.91,Paris,Electrical
+Dishwasher,Marks & Spencer,4,773.54,Paris,Kitchen
+Computer,Currys,1,389.85,Paris,Electrical
+Computer,John Lewis,3,549.67,Berlin,Electrical
+Table,John Lewis,3,703.65,Paris,Furniture
+Dishwasher,Dixons,2,611.3,Berlin,Kitchen
+Chair,Dixons,2,690.9,Paris,Furniture
+Chair,Marks & Spencer,4,862.05,Paris,Furniture
+Nespresso,John Lewis,3,404.39,Tokyo,Kitchen
+Keyboard,Currys,1,309.79,London,Sound
+Table,Walmart,5,329.25,Tokyo,Furniture
+Keyboard,Walmart,5,587.55,New York,Sound
+TV,John Lewis,3,807.15,New York,Electrical
+Table,Marks & Spencer,4,713.49,Tokyo,Furniture
+Computer,John Lewis,3,322.46,New York,Electrical
+Keyboard,Marks & Spencer,4,468.48,New York,Sound
+Nespresso,Dixons,2,275.36,Tokyo,Kitchen
+Table,John Lewis,3,747.08,New York,Furniture
+Chair,Dixons,2,521.79,Tokyo,Furniture
+Table,Marks & Spencer,4,686.21,New York,Furniture
+Dishwasher,Marks & Spencer,4,168.13,London,Kitchen
+TV,Marks & Spencer,4,689.16,New York,Electrical
+Nespresso,Walmart,5,277.96,Berlin,Kitchen
+Chair,Marks & Spencer,4,370.16,New York,Furniture
+Table,Currys,1,562.5,Berlin,Furniture
+Nespresso,John Lewis,3,814.57,London,Kitchen
+Washing Machine,Walmart,5,366.83,New York,Kitchen
+Keyboard,Marks & Spencer,4,117.02,Paris,Sound
+Washing Machine,Dixons,2,834.12,Paris,Kitchen
+Chair,Marks & Spencer,4,554.03,Tokyo,Furniture
+Keyboard,John Lewis,3,652.19,London,Sound
+Dishwasher,Dixons,2,240.06,London,Kitchen
+Keyboard,John Lewis,3,877.84,Tokyo,Sound
+Dishwasher,Marks & Spencer,4,254.2,London,Kitchen
+Keyboard,Walmart,5,322.33,New York,Sound
+Table,Marks & Spencer,4,155.78,New York,Furniture
+Chair,Currys,1,989.97,London,Furniture
+Chair,Dixons,2,606.25,London,Furniture
+Washing Machine,John Lewis,3,267.08,Berlin,Kitchen
+Keyboard,John Lewis,3,322.34,Tokyo,Sound
+Chair,Marks & Spencer,4,252.32,Paris,Furniture
+Computer,John Lewis,3,210.15,New York,Electrical
+Dishwasher,Currys,1,542.07,Berlin,Kitchen
+Chair,Marks & Spencer,4,390.09,Tokyo,Furniture
+Table,Marks & Spencer,4,682.84,Berlin,Furniture
+Chair,Currys,1,813.46,Paris,Furniture
+Nespresso,Marks & Spencer,4,520.2,Tokyo,Kitchen
+TV,Currys,1,429.38,Tokyo,Electrical
+Computer,Currys,1,143.03,Paris,Electrical
+Computer,Currys,1,165.7,Tokyo,Electrical
+Keyboard,Walmart,5,354.93,Berlin,Sound
+Dishwasher,Marks & Spencer,4,442.25,Tokyo,Kitchen
+Table,Currys,1,289.25,Tokyo,Furniture
+Computer,Dixons,2,681.8,New York,Electrical
+Computer,Currys,1,485.64,Berlin,Electrical
+Chair,Dixons,2,844.95,New York,Furniture
+Table,Walmart,5,772.16,Berlin,Furniture
+Nespresso,Currys,1,897.08,London,Kitchen
+TV,Currys,1,663.85,Berlin,Electrical
+Computer,Walmart,5,898.47,London,Electrical
+Keyboard,Walmart,5,263.47,Tokyo,Sound
+Dishwasher,Currys,1,360.34,New York,Kitchen
+Dishwasher,Marks & Spencer,4,357.13,London,Kitchen
+Keyboard,Currys,1,661.17,New York,Sound
+Table,Marks & Spencer,4,783.76,Tokyo,Furniture
+Keyboard,Currys,1,694.79,New York,Sound
+Dishwasher,Marks & Spencer,4,393.29,New York,Kitchen
+Keyboard,Walmart,5,237.34,London,Sound
+Washing Machine,Currys,1,371.78,London,Kitchen
+Chair,Marks & Spencer,4,940.09,Berlin,Furniture
+Washing Machine,Currys,1,376.32,London,Kitchen
+Chair,John Lewis,3,730.03,Tokyo,Furniture
+Chair,Marks & Spencer,4,571.95,New York,Furniture
+Computer,Dixons,2,470.03,London,Electrical
+Dishwasher,Dixons,2,573.91,Paris,Kitchen
+Keyboard,Dixons,2,343.09,London,Sound
+TV,Currys,1,300.23,Paris,Electrical
+Washing Machine,John Lewis,3,640.51,Tokyo,Kitchen
+Computer,Marks & Spencer,4,335.57,Paris,Electrical
+Table,Walmart,5,734.11,Berlin,Furniture
+Washing Machine,Marks & Spencer,4,605.58,Tokyo,Kitchen
+Dishwasher,Marks & Spencer,4,947.07,Paris,Kitchen
+TV,John Lewis,3,496.22,Tokyo,Electrical
+TV,John Lewis,3,998.82,London,Electrical
+Dishwasher,Walmart,5,940.78,Tokyo,Kitchen
+Computer,John Lewis,3,380.43,London,Electrical
+Computer,Walmart,5,566.98,Berlin,Electrical
+Dishwasher,John Lewis,3,240.05,London,Kitchen
+Nespresso,Walmart,5,728.95,London,Kitchen
+Washing Machine,Currys,1,445.22,Berlin,Kitchen
+TV,Walmart,5,486.02,London,Electrical
+Keyboard,Currys,1,494.99,London,Sound
+Dishwasher,Currys,1,888.9,New York,Kitchen
+TV,Marks & Spencer,4,433.94,Tokyo,Electrical
+Nespresso,Currys,1,245.9,New York,Kitchen
+Nespresso,John Lewis,3,731.3,Berlin,Kitchen
+Nespresso,Walmart,5,396.1,Paris,Kitchen
+Chair,Currys,1,752.42,Berlin,Furniture
+Keyboard,John Lewis,3,284,Paris,Sound
+Chair,Dixons,2,699.09,New York,Furniture
+TV,Currys,1,210.85,New York,Electrical
+Chair,Walmart,5,895.79,Paris,Furniture
+Computer,Dixons,2,728.26,London,Electrical
+Dishwasher,Currys,1,782,Paris,Kitchen
+Dishwasher,Marks & Spencer,4,224.97,Berlin,Kitchen
+Chair,John Lewis,3,816.21,Paris,Furniture
+Table,Currys,1,551.61,Paris,Furniture
+Washing Machine,John Lewis,3,685.55,London,Kitchen
+Chair,Currys,1,339.86,Paris,Furniture
+Dishwasher,Walmart,5,521.43,Berlin,Kitchen
+Computer,Dixons,2,475.36,Paris,Electrical
+Washing Machine,Currys,1,533.25,Berlin,Kitchen
+Washing Machine,Currys,1,860.63,Tokyo,Kitchen
+Keyboard,Currys,1,864.74,Berlin,Sound
+Chair,Marks & Spencer,4,326.71,London,Furniture
+Computer,Dixons,2,504.81,New York,Electrical
+Nespresso,Marks & Spencer,4,997.76,New York,Kitchen
+Dishwasher,Dixons,2,316.48,Berlin,Kitchen
+Computer,Currys,1,285.66,Berlin,Electrical
+Washing Machine,Walmart,5,652.35,London,Kitchen
+Nespresso,John Lewis,3,704.36,Tokyo,Kitchen
+Washing Machine,John Lewis,3,415.97,Paris,Kitchen
+Nespresso,Currys,1,498.81,Paris,Kitchen
+Washing Machine,John Lewis,3,351.15,Tokyo,Kitchen
+Dishwasher,Currys,1,830.35,Tokyo,Kitchen
+Table,John Lewis,3,273.59,Berlin,Furniture
+Dishwasher,Currys,1,128.88,New York,Kitchen
+Computer,Walmart,5,496.33,New York,Electrical
+Computer,Marks & Spencer,4,445.31,Paris,Electrical
+TV,Walmart,5,514.51,London,Electrical
+Washing Machine,Dixons,2,986.33,London,Kitchen
+TV,Marks & Spencer,4,933.35,Tokyo,Electrical
+Chair,Walmart,5,589.37,Berlin,Furniture
+Washing Machine,Walmart,5,435.2,Berlin,Kitchen
+Chair,Currys,1,147.46,London,Furniture
+Chair,Marks & Spencer,4,769.29,Berlin,Furniture
+Dishwasher,John Lewis,3,806.81,Berlin,Kitchen
+Chair,Marks & Spencer,4,547.02,New York,Furniture
+Nespresso,John Lewis,3,634.42,London,Kitchen
+Washing Machine,Walmart,5,332.77,Tokyo,Kitchen
+Computer,John Lewis,3,987.18,Paris,Electrical
+Computer,Dixons,2,381.16,Tokyo,Electrical
+Washing Machine,Currys,1,686.37,New York,Kitchen
+Nespresso,Dixons,2,338.03,London,Kitchen
+Chair,Marks & Spencer,4,641.96,London,Furniture
+Washing Machine,Walmart,5,292.99,New York,Kitchen
+Nespresso,Currys,1,749.43,Tokyo,Kitchen
+Chair,Dixons,2,660.45,New York,Furniture
+Dishwasher,Marks & Spencer,4,291.67,London,Kitchen
+Dishwasher,Walmart,5,215.18,New York,Kitchen
+TV,Walmart,5,193.9,New York,Electrical
+Dishwasher,Walmart,5,377.65,Tokyo,Kitchen
+Chair,Currys,1,812.4,London,Furniture
+Nespresso,John Lewis,3,877.8,New York,Kitchen
+TV,John Lewis,3,399.31,Paris,Electrical
+Washing Machine,Currys,1,161.77,Tokyo,Kitchen
+Nespresso,Dixons,2,392.67,Berlin,Kitchen
+Computer,John Lewis,3,584.39,Paris,Electrical
+Washing Machine,Marks & Spencer,4,867.12,London,Kitchen
+Computer,John Lewis,3,650.77,New York,Electrical
+Dishwasher,John Lewis,3,283.6,Tokyo,Kitchen
+Dishwasher,Dixons,2,903.26,Tokyo,Kitchen
+Dishwasher,John Lewis,3,486.28,Tokyo,Kitchen
+Computer,Currys,1,477.38,Paris,Electrical
+Dishwasher,Marks & Spencer,4,894.12,Berlin,Kitchen
+Chair,Walmart,5,257.74,Berlin,Furniture
+Dishwasher,Walmart,5,595.31,Paris,Kitchen
+Chair,Currys,1,738.82,London,Furniture
+Chair,Walmart,5,787.04,Tokyo,Furniture
+Computer,Dixons,2,834.74,Tokyo,Electrical
+TV,Marks & Spencer,4,968.45,Paris,Electrical
+Chair,Marks & Spencer,4,277.39,Tokyo,Furniture
+Washing Machine,John Lewis,3,412.27,Paris,Kitchen
+Washing Machine,Dixons,2,722.64,New York,Kitchen
+Chair,Walmart,5,778.46,New York,Furniture
+TV,John Lewis,3,225.01,London,Electrical
+Table,Walmart,5,669.43,Tokyo,Furniture
+Keyboard,Walmart,5,564.47,Berlin,Sound
+Computer,John Lewis,3,681.56,New York,Electrical
+Chair,Marks & Spencer,4,961.44,New York,Furniture
+Computer,Dixons,2,796.68,Berlin,Electrical
+TV,Marks & Spencer,4,211.43,New York,Electrical
+Table,Marks & Spencer,4,462.24,Paris,Furniture
+Keyboard,Dixons,2,940.33,Tokyo,Sound
+Keyboard,Marks & Spencer,4,787.57,New York,Sound
+Dishwasher,Dixons,2,518.43,Berlin,Kitchen
+Chair,John Lewis,3,684.5,New York,Furniture
+Dishwasher,Dixons,2,521.47,Berlin,Kitchen
+Nespresso,Walmart,5,832.04,New York,Kitchen
+Computer,Marks & Spencer,4,230.05,New York,Electrical
+TV,John Lewis,3,519.55,New York,Electrical
+Dishwasher,Dixons,2,296.01,London,Kitchen
+Computer,Walmart,5,798.01,London,Electrical
+TV,Marks & Spencer,4,498.21,Tokyo,Electrical
+Dishwasher,John Lewis,3,194.86,Paris,Kitchen
+TV,Dixons,2,108.59,Paris,Electrical
+Dishwasher,Dixons,2,791.17,Paris,Kitchen
+Washing Machine,Currys,1,406.04,Paris,Kitchen
+Computer,Dixons,2,865.32,London,Electrical
+Chair,Dixons,2,878.78,Tokyo,Furniture
+Table,Marks & Spencer,4,333.44,London,Furniture
+Table,Currys,1,951.36,Berlin,Furniture
+Dishwasher,John Lewis,3,674.17,London,Kitchen
+Keyboard,Walmart,5,416.68,New York,Sound
+Nespresso,Dixons,2,767.42,London,Kitchen
+TV,Marks & Spencer,4,574.4,New York,Electrical
+Keyboard,Currys,1,686.2,Paris,Sound
+Dishwasher,Dixons,2,285.38,Tokyo,Kitchen
+Keyboard,Dixons,2,833.56,New York,Sound
+Nespresso,Dixons,2,597.12,Tokyo,Kitchen
+Computer,John Lewis,3,312.19,New York,Electrical
+Washing Machine,Currys,1,942.49,Paris,Kitchen
+Chair,Marks & Spencer,4,964.14,Paris,Furniture
+Washing Machine,Currys,1,246.94,Tokyo,Kitchen
+Chair,Dixons,2,192.77,New York,Furniture
+Keyboard,Walmart,5,325.46,Berlin,Sound
+Chair,Currys,1,716.61,New York,Furniture
+TV,John Lewis,3,400.71,Tokyo,Electrical
+Keyboard,John Lewis,3,726.79,London,Sound
+TV,Currys,1,885.58,London,Electrical
+Chair,Currys,1,106.87,New York,Furniture
+TV,Dixons,2,221.22,Paris,Electrical
+Washing Machine,Dixons,2,750.79,Berlin,Kitchen
+Nespresso,Dixons,2,220.45,New York,Kitchen
+Nespresso,John Lewis,3,386.56,Tokyo,Kitchen
+Chair,John Lewis,3,974.37,London,Furniture
+Keyboard,John Lewis,3,441.47,Tokyo,Sound
+Computer,Walmart,5,745.75,Berlin,Electrical
+Computer,Currys,1,463.75,New York,Electrical
+Washing Machine,John Lewis,3,830.93,Tokyo,Kitchen
+Keyboard,Dixons,2,367.61,Paris,Sound
+Washing Machine,Walmart,5,735.76,Berlin,Kitchen
+Computer,John Lewis,3,163.02,Tokyo,Electrical
+Keyboard,Dixons,2,500.14,London,Sound
+Table,John Lewis,3,779.67,Tokyo,Furniture
+Dishwasher,Marks & Spencer,4,142.19,London,Kitchen
+Computer,Dixons,2,906.77,Berlin,Electrical
+Nespresso,Dixons,2,989.49,Berlin,Kitchen
+Nespresso,Currys,1,568.78,Paris,Kitchen
+Chair,John Lewis,3,746.99,Tokyo,Furniture
+TV,John Lewis,3,785.7,Tokyo,Electrical
+Washing Machine,Walmart,5,113.14,Berlin,Kitchen
+Chair,Marks & Spencer,4,464.58,Berlin,Furniture
+Chair,John Lewis,3,900.59,New York,Furniture
+Table,Marks & Spencer,4,103.69,Paris,Furniture
+TV,Currys,1,209.48,Berlin,Electrical
+Dishwasher,Walmart,5,696.51,Berlin,Kitchen
+Dishwasher,Currys,1,246.33,Tokyo,Kitchen
+Washing Machine,Marks & Spencer,4,262.63,New York,Kitchen
+Dishwasher,Dixons,2,351.8,London,Kitchen
+Keyboard,Marks & Spencer,4,850.25,New York,Sound
+Keyboard,Currys,1,665.2,New York,Sound
+Dishwasher,Marks & Spencer,4,241.23,London,Kitchen
+Washing Machine,John Lewis,3,762.04,Berlin,Kitchen
+Washing Machine,Walmart,5,280.8,London,Kitchen
+TV,John Lewis,3,112.7,New York,Electrical
+Dishwasher,Marks & Spencer,4,285.55,London,Kitchen
+TV,John Lewis,3,669.13,London,Electrical
+Keyboard,John Lewis,3,129.66,Tokyo,Sound
+Keyboard,Currys,1,665.36,Paris,Sound
+Keyboard,Dixons,2,198.84,Paris,Sound
+Keyboard,John Lewis,3,784.66,Berlin,Sound
+Table,Marks & Spencer,4,623.47,London,Furniture
+Table,Marks & Spencer,4,683.19,Tokyo,Furniture
+Washing Machine,Dixons,2,879.39,Tokyo,Kitchen
+Washing Machine,John Lewis,3,323.7,New York,Kitchen
+Washing Machine,Marks & Spencer,4,583.02,Berlin,Kitchen
+Nespresso,Dixons,2,531.05,Paris,Kitchen
+Keyboard,Currys,1,529.7,Berlin,Sound
+Washing Machine,Marks & Spencer,4,702.88,Berlin,Kitchen
+Nespresso,Dixons,2,483.66,New York,Kitchen
+Washing Machine,Dixons,2,220.3,New York,Kitchen
+Dishwasher,Walmart,5,505.37,New York,Kitchen
+Chair,Dixons,2,969.49,Paris,Furniture
+Table,Dixons,2,644.07,Tokyo,Furniture
+Nespresso,John Lewis,3,747.89,New York,Kitchen
+Chair,Dixons,2,119.76,London,Furniture
+Table,Dixons,2,789.86,Paris,Furniture
+Dishwasher,Marks & Spencer,4,886.44,New York,Kitchen
+Chair,John Lewis,3,769.52,Paris,Furniture
+Keyboard,John Lewis,3,726.09,New York,Sound
+Computer,Marks & Spencer,4,355.02,Paris,Electrical
+Computer,Dixons,2,901.31,Berlin,Electrical
+Chair,Currys,1,270.33,Tokyo,Furniture
+Dishwasher,John Lewis,3,461.97,London,Kitchen
+TV,Dixons,2,405.44,Paris,Electrical
+Nespresso,John Lewis,3,642.68,New York,Kitchen
+Keyboard,John Lewis,3,601.44,London,Sound
+Computer,Dixons,2,118.73,Berlin,Electrical
+Computer,John Lewis,3,226.35,Berlin,Electrical
+Dishwasher,Currys,1,701.76,New York,Kitchen
+Dishwasher,Currys,1,645.6,Tokyo,Kitchen
+Chair,Currys,1,799.38,Berlin,Furniture
+Computer,Walmart,5,535.71,New York,Electrical
+Table,Currys,1,257.8,London,Furniture
+Keyboard,Walmart,5,565.75,Tokyo,Sound
+TV,Dixons,2,396.21,Paris,Electrical
+Chair,Currys,1,502.25,New York,Furniture
+TV,Dixons,2,438.08,Paris,Electrical
+Keyboard,Dixons,2,917.59,Tokyo,Sound
+Computer,Dixons,2,110.07,New York,Electrical
+Chair,Marks & Spencer,4,770.99,London,Furniture
+Washing Machine,Currys,1,518.74,Tokyo,Kitchen
+Computer,John Lewis,3,635.23,Tokyo,Electrical
+Nespresso,John Lewis,3,601.95,Tokyo,Kitchen
+Nespresso,Dixons,2,682.51,London,Kitchen
+TV,Currys,1,908.31,Paris,Electrical
+Chair,Marks & Spencer,4,996.75,New York,Furniture
+Nespresso,Marks & Spencer,4,896.51,New York,Kitchen
+Nespresso,John Lewis,3,128.81,Tokyo,Kitchen
+Table,John Lewis,3,973.04,New York,Furniture
+Washing Machine,Walmart,5,352.49,Tokyo,Kitchen
+Nespresso,Walmart,5,642.63,Paris,Kitchen
+Dishwasher,Dixons,2,618.96,Tokyo,Kitchen
+Nespresso,Walmart,5,481.73,Paris,Kitchen
+Keyboard,Walmart,5,540.32,Tokyo,Sound
+Keyboard,Currys,1,595.33,Berlin,Sound
+Washing Machine,Currys,1,119.64,New York,Kitchen
+Computer,Currys,1,526.09,London,Electrical
+Computer,Marks & Spencer,4,472.84,Berlin,Electrical
+Table,Dixons,2,727.1,Paris,Furniture
+Chair,Walmart,5,842.15,Tokyo,Furniture
+Nespresso,Marks & Spencer,4,267.16,Tokyo,Kitchen
+Nespresso,Walmart,5,144.53,London,Kitchen
+Dishwasher,Walmart,5,455.15,Berlin,Kitchen
+Washing Machine,Currys,1,372.69,New York,Kitchen
+Table,Marks & Spencer,4,990.97,London,Furniture
+Dishwasher,Marks & Spencer,4,254.53,Berlin,Kitchen
+Computer,Walmart,5,979.09,Tokyo,Electrical
+Chair,John Lewis,3,491.01,Paris,Furniture
+Computer,Dixons,2,657.04,London,Electrical
+Washing Machine,Dixons,2,370.04,London,Kitchen
+Keyboard,John Lewis,3,369.59,Paris,Sound
+Table,Marks & Spencer,4,921.24,New York,Furniture
+Washing Machine,Currys,1,703.35,London,Kitchen
+Dishwasher,Currys,1,724.87,New York,Kitchen
+TV,Marks & Spencer,4,966.75,Paris,Electrical
+Keyboard,John Lewis,3,382.23,London,Sound
+Chair,Dixons,2,259.99,Berlin,Furniture
+Keyboard,Currys,1,250.09,New York,Sound
+TV,Dixons,2,360.16,London,Electrical
+Table,Marks & Spencer,4,773.54,New York,Furniture
+Keyboard,Marks & Spencer,4,420.45,New York,Sound
+Table,Currys,1,402.88,London,Furniture
+Nespresso,John Lewis,3,726.81,Tokyo,Kitchen
+TV,Walmart,5,733.98,New York,Electrical
+Computer,Marks & Spencer,4,196.96,Paris,Electrical
+Chair,Dixons,2,253.57,Berlin,Furniture
+Keyboard,Marks & Spencer,4,953.16,Paris,Sound
+Washing Machine,Currys,1,925.73,London,Kitchen
+Nespresso,Dixons,2,695.81,Tokyo,Kitchen
+Keyboard,Dixons,2,910.04,Tokyo,Sound
+Keyboard,Currys,1,627.03,Berlin,Sound
+Nespresso,Marks & Spencer,4,319.25,London,Kitchen
+Keyboard,Marks & Spencer,4,108.49,Berlin,Sound
+Keyboard,John Lewis,3,827.08,Tokyo,Sound
+Chair,Walmart,5,583.18,Berlin,Furniture
+Nespresso,Dixons,2,397.4,New York,Kitchen
+Table,Currys,1,554.22,New York,Furniture
+Washing Machine,Dixons,2,694.9,New York,Kitchen
+Computer,Walmart,5,165.64,Berlin,Electrical
+Washing Machine,Dixons,2,746.17,Berlin,Kitchen
+Dishwasher,Currys,1,529.2,New York,Kitchen
+Table,Marks & Spencer,4,456.66,Tokyo,Furniture
+Nespresso,Dixons,2,708.46,New York,Kitchen
+Dishwasher,Marks & Spencer,4,669.52,Tokyo,Kitchen
+Table,Walmart,5,711.34,Paris,Furniture
+Table,John Lewis,3,103.05,New York,Furniture
+Chair,Marks & Spencer,4,705.06,Paris,Furniture
+Dishwasher,Currys,1,900.21,Berlin,Kitchen
+TV,Marks & Spencer,4,446.69,New York,Electrical
+Computer,Walmart,5,319.64,London,Electrical
+Washing Machine,Walmart,5,109.89,Paris,Kitchen
+Table,Dixons,2,319.74,London,Furniture
+Nespresso,Currys,1,223.35,Berlin,Kitchen
+Keyboard,Currys,1,371.29,Paris,Sound
+Keyboard,Dixons,2,677.33,Tokyo,Sound
+Dishwasher,Walmart,5,488.52,New York,Kitchen
+Chair,Currys,1,631.15,Berlin,Furniture
+Washing Machine,Dixons,2,216.33,Berlin,Kitchen
+Table,Walmart,5,554.59,Paris,Furniture
+TV,Walmart,5,542.55,Berlin,Electrical
+Washing Machine,Walmart,5,256.94,London,Kitchen
+Keyboard,Currys,1,269.02,New York,Sound
+Dishwasher,John Lewis,3,635.67,Tokyo,Kitchen
+Dishwasher,Marks & Spencer,4,702.86,New York,Kitchen
+Chair,Currys,1,280.25,New York,Furniture
+Chair,John Lewis,3,108.2,Paris,Furniture
+Keyboard,Dixons,2,655.55,Paris,Sound
+TV,Marks & Spencer,4,314.39,Tokyo,Electrical
+Computer,Walmart,5,158.81,Tokyo,Electrical
+Chair,Walmart,5,159.18,Paris,Furniture
+Washing Machine,Currys,1,342.45,Tokyo,Kitchen
+Washing Machine,Walmart,5,420.12,Paris,Kitchen
+Nespresso,John Lewis,3,524.02,Berlin,Kitchen
+TV,Marks & Spencer,4,927.22,Paris,Electrical
+Washing Machine,John Lewis,3,866.43,Tokyo,Kitchen
+Washing Machine,Marks & Spencer,4,104.19,Tokyo,Kitchen
+Washing Machine,Walmart,5,548.58,Tokyo,Kitchen
+Keyboard,Dixons,2,155.76,Berlin,Sound
+TV,Marks & Spencer,4,791.71,London,Electrical
+Washing Machine,Currys,1,185.78,Paris,Kitchen
+Keyboard,Marks & Spencer,4,334.06,Paris,Sound
+Dishwasher,Currys,1,757.94,Tokyo,Kitchen
+Chair,Walmart,5,648.79,New York,Furniture
+Dishwasher,Dixons,2,184.6,New York,Kitchen
+Chair,Dixons,2,286.18,Berlin,Furniture
+Dishwasher,John Lewis,3,594.71,Paris,Kitchen
+Nespresso,Currys,1,998.63,Paris,Kitchen
+Dishwasher,John Lewis,3,228.78,London,Kitchen
+TV,John Lewis,3,840.82,Paris,Electrical
+Chair,Dixons,2,418.57,New York,Furniture
+Table,Currys,1,414.67,Berlin,Furniture
+Dishwasher,Dixons,2,725.41,Tokyo,Kitchen
+Computer,Walmart,5,209.65,Paris,Electrical
+TV,Marks & Spencer,4,879.37,London,Electrical
+Chair,John Lewis,3,561.88,Paris,Furniture
+Dishwasher,Marks & Spencer,4,202.19,Tokyo,Kitchen
+Table,Walmart,5,685.67,London,Furniture
+Table,Marks & Spencer,4,267.25,Paris,Furniture
+Keyboard,Currys,1,220.39,New York,Sound
+Table,Walmart,5,590.17,New York,Furniture
+Computer,Walmart,5,977.39,London,Electrical
+TV,Dixons,2,767.9,London,Electrical
+Table,John Lewis,3,623.85,New York,Furniture
+TV,John Lewis,3,266.4,Berlin,Electrical
+Computer,Walmart,5,419.44,London,Electrical
+Table,Marks & Spencer,4,140.63,Tokyo,Furniture
+Table,Marks & Spencer,4,185.35,London,Furniture
+Table,Currys,1,331.32,London,Furniture
+Washing Machine,John Lewis,3,278.96,London,Kitchen
+Computer,John Lewis,3,937.51,New York,Electrical
+Chair,Walmart,5,852.02,London,Furniture
+TV,Marks & Spencer,4,842.21,Tokyo,Electrical
+Table,Marks & Spencer,4,496.87,Paris,Furniture
+Table,Marks & Spencer,4,988.98,Paris,Furniture
+Computer,Walmart,5,186.54,London,Electrical
+Chair,Dixons,2,215,Tokyo,Furniture
+Computer,Marks & Spencer,4,374.17,New York,Electrical
+Dishwasher,Marks & Spencer,4,507.52,London,Kitchen
+Keyboard,John Lewis,3,441.05,New York,Sound
+TV,Marks & Spencer,4,111.91,New York,Electrical
